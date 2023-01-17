@@ -1,3 +1,3 @@
-const fullName = "Febrian Aditya R"
+const fullName = "Febrian Aditya Ra"
 
 console.log(fullName);
