@@ -10,6 +10,6 @@
         "sourceType": "module"
     },
     "rules": {
-        "camelcase": "error"
+        "camelcase": "warn"
     }
 }
